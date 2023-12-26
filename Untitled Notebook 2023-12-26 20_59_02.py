@@ -3,4 +3,6 @@ print('hi')
 
 # COMMAND ----------
 
-print("i love databricks")
+print("i love databricks"
+print('hello')
+
