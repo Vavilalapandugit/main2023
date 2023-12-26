@@ -1,0 +1,5 @@
+emp_id,emp_name,emp_position,emp_department,emp_join_date
+401,Patrick Harris,Manager,IT,2019-04-17
+402,Amy Lewis,Developer,Engineering,2021-11-05
+403,Richard White,Analyst,Finance,2018-02-14
+404,Olivia Johnson,Intern,Marketing,2022-06-20
