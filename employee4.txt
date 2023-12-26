@@ -3,3 +3,4 @@ emp_id,emp_name,emp_position,emp_department,emp_join_date
 402,Amy Lewis,Developer,Engineering,2021-11-05
 403,Richard White,Analyst,Finance,2018-02-14
 404,Olivia Johnson,Intern,Marketing,2022-06-20
+405,pavan kumar,DATa,swe,2022-09-29
